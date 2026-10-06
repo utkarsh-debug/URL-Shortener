@@ -17,14 +17,6 @@ Users should be able to:
 - Copy the shortened link to their clipboard in a single click
 - Receive an error message when the `input` is invalid
 
-### Screenshot
-
-![url-shortener](https://github.com/Plasticfoods/URL-Shortener/assets/109089484/42dc9e47-39c4-4636-8071-808f3e4a8833)
-
-### Links
-* [Live URL](https://render-little-url.netlify.app/)
-* [Solution](https://github.com/Plasticfoods/URL-Shortener)
-
 ## My process
 
 ### Built with
@@ -38,5 +30,3 @@ Users should be able to:
 - [Express](https://expressjs.com/) - Nodejs framework
 - [MongoDB](https://www.mongodb.com/) - NoSQL databases
  
-## Contributing
-If you want to contribute to this project, you can report issues, suggest new features, or submit pull requests on GitHub. Please follow the code of conduct and the contribution guidelines before making any changes.
